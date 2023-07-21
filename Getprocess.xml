@@ -1,0 +1,5 @@
+<Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <Body>
+        <GetProcessList xmlns="urn:SAPControl"/>
+    </Body>
+</Envelope>
