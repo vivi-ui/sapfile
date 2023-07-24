@@ -1,0 +1,2 @@
+link:
+https://github.com/alibaba/lightproxy/releases/download/v1.1.42-beta-4/LightProxy-Setup-1.1.42-beta-4.exe
